@@ -2,10 +2,6 @@
 
 #### 这是欣欣的第一个项目
 
-
-
-
-
 ```bash
 ## 克隆远程仓库
 git clone xx
@@ -21,5 +17,11 @@ git commit -m 'xxx提交'
 
 ## 推送到远程仓库
 git push
+
+## 查询
+git status
+
+## 对比本地仓库和当前代码的区别
+git diff
 ```
 
