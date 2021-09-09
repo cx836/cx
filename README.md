@@ -23,5 +23,13 @@ git status
 
 ## 对比本地仓库和当前代码的区别
 git diff
+
+## 查看提交记录
+git log
+
+## 撤回工作区
+git restore ./
+
+
 ```
 
