@@ -17,7 +17,7 @@ git pull
 git add .
 
 ## 提交到本地仓库
-git commit comment 'xxx提交'
+git commit -m 'xxx提交'
 
 ## 推送到远程仓库
 git push
